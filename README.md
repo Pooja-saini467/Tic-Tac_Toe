@@ -2,4 +2,4 @@
 It is fun Project .It is complete responsive
 ## Using only HTML + CSS + JS
 
-<img src="Screenshot(19).png" alt="game" style="margin-left: 15px;" />
+<img src="https://github.com/Pooja-saini467/Tic-Tac_Toe/blob/main/Screenshot%20(19).png?raw=true" alt="game" style="margin-left: 15px;" />
